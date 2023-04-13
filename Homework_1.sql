@@ -26,5 +26,6 @@ where product_name like "%Iphone%";
 select * from mobile_phones
 where product_name like "%8%";
 
+-- задание №4.3
 select * from mobile_phones
 where product_name REGEXP '[0-9]';
