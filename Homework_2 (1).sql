@@ -1,5 +1,5 @@
-create database homework;
-use homework;
+
+use homework_1;
 
 -- Создаем таблицу sales
 drop table if exists sales;
